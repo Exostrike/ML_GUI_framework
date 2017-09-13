@@ -10,12 +10,21 @@ Once loaded this GUI allows you to load the required file, select target variabl
 Required Packages:
 
 sklearn
+
 scipy
+
 numpy
+
 pandas
+
 itertools
+
 mlxtend
+
 imblearn
+
 collections
+
 wx
+
 sys
